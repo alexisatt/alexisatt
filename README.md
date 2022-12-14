@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @alexisatt
+- 👋 Hi, I’m Alexis Attardo
+- 🗽 Currently working in NYC
 - 💪 I love to problem solve
 - 👩🏼‍💻 Developing is my passion
 - 🌱 Always interested in learning new technologies
