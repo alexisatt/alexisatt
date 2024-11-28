@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexis Attardo
+- 👋 Hi, I’m Alexis 
 - 🗽 Currently working in NYC
 - 💪 I love to problem solve
 - 👩🏼‍💻 Developing is my passion
